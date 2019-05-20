@@ -1,0 +1,260 @@
+{"frames": [
+
+{
+	"filename": "WA_lightning1.png",
+	"frame": {"x":0,"y":302,"w":900,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":200},
+	"sourceSize": {"w":900,"h":200}
+},
+{
+	"filename": "WA_LgCloud1D.png",
+	"frame": {"x":1057,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_LgCloud1N.png",
+	"frame": {"x":906,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_LgCloud2D.png",
+	"frame": {"x":604,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_LgCloud2N.png",
+	"frame": {"x":453,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_LgCloud3D.png",
+	"frame": {"x":151,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_LgCloud3N.png",
+	"frame": {"x":1208,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_lightning2.png",
+	"frame": {"x":0,"y":503,"w":900,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":201},
+	"sourceSize": {"w":900,"h":201}
+},
+{
+	"filename": "WA_lightning3.png",
+	"frame": {"x":900,"y":302,"w":900,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":201},
+	"sourceSize": {"w":900,"h":201}
+},
+{
+	"filename": "WA_lightning4.png",
+	"frame": {"x":900,"y":503,"w":901,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":901,"h":201},
+	"sourceSize": {"w":901,"h":201}
+},
+{
+	"filename": "WA_MistD.png",
+	"frame": {"x":302,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_MistN.png",
+	"frame": {"x":1812,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_moon1.png",
+	"frame": {"x":302,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_moon2.png",
+	"frame": {"x":0,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_moon3.png",
+	"frame": {"x":755,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_moon4.png",
+	"frame": {"x":1057,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_RaindropD.png",
+	"frame": {"x":1661,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_RaindropN.png",
+	"frame": {"x":1510,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_sky.png",
+	"frame": {"x":0,"y":704,"w":1801,"h":201},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1801,"h":201},
+	"sourceSize": {"w":1801,"h":201}
+},
+{
+	"filename": "WA_smallCloud1D.png",
+	"frame": {"x":1510,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_smallCloud1N.png",
+	"frame": {"x":1359,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_smallCloud2D.png",
+	"frame": {"x":1661,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_smallCloud2N.png",
+	"frame": {"x":1208,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_smallCloud3D.png",
+	"frame": {"x":906,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_smallCloud3N.png",
+	"frame": {"x":755,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_SnowD.png",
+	"frame": {"x":1359,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_SnowN.png",
+	"frame": {"x":0,"y":151,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_Sun1.png",
+	"frame": {"x":151,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_Sun2.png",
+	"frame": {"x":453,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_Sun3.png",
+	"frame": {"x":1812,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+},
+{
+	"filename": "WA_Sun4.png",
+	"frame": {"x":604,"y":0,"w":151,"h":151},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":151,"h":151},
+	"sourceSize": {"w":151,"h":151}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "drake_weather_sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":1963,"h":905},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:00f95c126be568c96708449362b01dd1:a6908498035b0c95d77e835697e4f04e:b55c4b222f8e464bc6b6a829af0cb741$"
+}
+}
